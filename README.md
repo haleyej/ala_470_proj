@@ -1,4 +1,4 @@
-# ala_470_proj
+# ALA 470 Final Project
 Final project for ALA 470 (Data Visualization) at the University of Michigan
 
 <h2>Objective</h2>
