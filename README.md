@@ -2,7 +2,7 @@
 Final project for ALA 470 (Data Visualization) at the University of Michigan
 
 <h2>Objective</h2>
-This project uses data visualization and natural language processing to identify the characteristics of fake news and its various subtypes, with an emphasis on using thoughtful and meaningful visualization techniques. 
+This project uses data visualization and natural language processing to identify the characteristics of fake news and its various subtypes. 
 
 <h2>Data</h2>
 From Kaggle
